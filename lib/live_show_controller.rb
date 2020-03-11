@@ -25,3 +25,4 @@ class LiveShowController
       end
     end
   end
+end
